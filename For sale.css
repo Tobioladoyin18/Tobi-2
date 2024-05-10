@@ -1,0 +1,148 @@
+
+.icons{
+    text-align: right;
+}
+
+.icons a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.fa-brands.fa-x.fa-2x.fa-background{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 0%);
+}
+.fa-brands.fa-x.fa-2x.fa-backgound:hover{
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 0%, 10%);
+}
+
+.fa-brands.fa-youtube.fa-2x{
+    color: hsl(0, 99%, 51%);
+}
+
+.fa-brands.fa-youtube.fa-2x:hover{
+    color: hsl(0, 99%, 61%);
+}
+
+.fa-brands.fa-tiktok.fa-2x{
+    color: hsl(0, 0%, 0%);
+}
+
+.fa-brands.fa-tiktok.fa-2x:hover{
+    color: hsl(0, 0%, 10%);
+}
+
+.fa-brands.fa-whatsapp.fa-2x{
+    color: hsl(137, 100%, 42%);
+}
+
+.fa-brands.fa-whatsapp.fa-2x:hover{
+    color: hsl(137, 100%, 52%);
+}
+
+.villa{
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 500px; 
+  }
+  .image {
+margin-right: 30px;
+  }
+  .text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px; 
+    text-align: right;
+  }
+
+  .Tobi{
+    margin-right: 30px;
+  }
+
+  .class{
+     position: relative;
+     width: 200px;
+  }
+  .Second{
+     text-align: left;
+  }
+
+  .Balls{
+    text-align: right;
+  }
+
+  .Another{
+    text-align: left;
+  }
+
+  .Another{
+    border: 2px solid rgb(255, 166, 0);
+    background-color: rgb(255, 166, 0);
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+  }
+
+  .Two{
+    text-align: left;
+    border: 2px solid rgb(255, 166, 0);
+    background-color: rgb(255, 166, 0);
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+  }
+
+  .Three{
+    text-align: left;
+    border: 2px solid rgb(255, 166, 0);
+    background-color: rgb(255, 166, 0);
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+  }
+
+  .FEET{
+    text-align: left;
+  }
+
+  .appartment{
+    text-align: right;
+    font-size: large;
+  }
+
+  .Right{
+    text-align: left;
+  }
+
+  .Left{
+    text-align: right;
+  }
+
+  .Tolu{
+    text-align: center;
+  }
+
+  .Almost{
+    text-align: center;
+  }
+
+  .Last{
+    width: 50px;
+    height: 150px;
+  }
+
+  
